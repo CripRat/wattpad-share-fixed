@@ -12,6 +12,6 @@ wattpad.com##.highlight-tooltip
 3. Click "Apply changes", then reload your Wattpad tab. Done.
 
 Chrome users
-Chrome only offers uBlock Origin Lite, which doesn't reliably support custom filters. Use wattpad-no-share-tooltip.user.js with Violentmonkey or Tampermonkey instead — same fix, and it keeps working if Wattpad renames the element.
+Chrome only offers uBlock Origin Lite, which doesn't reliably support custom filters. 
 
 Firefox, Edge and Opera get the full uBlock Origin, so the filter above works there.
