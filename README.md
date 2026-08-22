@@ -9,6 +9,7 @@ Install
 Click the uBlock Origin icon → gears icon (Dashboard) → My filters tab → paste this on a new line:
 
 wattpad.com##.highlight-tooltip
+
 3. Click "Apply changes", then reload your Wattpad tab. Done.
 
 Chrome users
